@@ -6,7 +6,7 @@
 
 ## Link to Project PR
 
-[React Project PR](https://github.com/mukhammadrizooff/Hello-rails-BackEnd/pull/1)
+[React Project PR]([https://github.com/mukhammadrizooff/Hello-rails-BackEnd/pull/1](https://github.com/mukhammadrizooff/Hello-React-FrontEnd/pull/1))
 
 ## Built With
 
